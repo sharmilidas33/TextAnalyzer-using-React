@@ -1,6 +1,10 @@
 # TextAnalyzer-using-React
 TextAnalyzer is a web application built with React that allows you to analyze and manipulate text. You can perform various operations on your text, including converting it to uppercase or lowercase, clearing it, and copying it to the clipboard.
 
+## Screenshots
+![Screenshot 1 ta](https://github.com/sharmilidas33/TextAnalyzer-using-React/assets/128738858/47105e73-185f-4806-baa1-2e1b580e6885)
+![Screenshot 2 ta](https://github.com/sharmilidas33/TextAnalyzer-using-React/assets/128738858/75271c3a-9b40-4b8d-86b4-16569e22fa24)
+
 ## Hosted Website
 [Visit TextAnalyzer Website](https://textanalyzer-by-sharmili.netlify.app/)
 

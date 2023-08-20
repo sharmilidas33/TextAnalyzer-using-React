@@ -34,4 +34,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 If you have any questions or feedback, feel free to reach out:
 
-- Email: your- sharmilidas1@.com
+- Email: your- sharmilidas1@gmail.com
